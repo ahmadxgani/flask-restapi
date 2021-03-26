@@ -1,0 +1,9 @@
+flask
+python-dotenv
+requests==2.22.0
+bs4==0.0.1
+pydotmap
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+Flask-Mail

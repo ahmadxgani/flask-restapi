@@ -1,0 +1,9 @@
+FLASK_APP=main.py
+FLASK_ENV=development
+
+JWT_SECRET=xxxxxx
+
+MAIL_SERVER=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=your_email@gmail.com
+MAIL_PASSWORD=your_email_password

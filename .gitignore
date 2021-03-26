@@ -1,0 +1,7 @@
+lib
+bin
+pyvenv.cfg
+__*__
+*.db
+migrations
+.flaskenv
